@@ -1,5 +1,5 @@
 # argocd-katas
-
+asdasd
 Exercise list and order:
 
 * [Setup of your ArgoCD root application](setup.md)
